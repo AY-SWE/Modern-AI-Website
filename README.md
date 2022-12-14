@@ -1,6 +1,7 @@
-# Modern GPT3 Frontend ONLY website 
+# Modern OpenAI GPT3
 
-## A front-end only website for practice
+## A front-end only website 
 
-Technologies used: React.js, Javascript, HTML/CSS
+Technologies used: React.js, Javascript, HTML/CSS, CSS BEM Model
+
 
